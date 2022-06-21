@@ -11,7 +11,7 @@ You can find my:
 - Further education details
 - More about my skills and interest
 
-in my CV, which can be download [here](https://github.com/zaraysalas/zaraysalas/raw/3016ba27fdb4ed5e93baee10acee6876dd6ed372/CV-SALAS_LOPEZ.pdf)
+in my CV, which can be downloaded [here](https://github.com/zaraysalas/zaraysalas/raw/3016ba27fdb4ed5e93baee10acee6876dd6ed372/CV-SALAS_LOPEZ.pdf)
 
 <!---
 zaraysalas/zaraysalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
